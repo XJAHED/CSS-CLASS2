@@ -1,0 +1,37 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+
+.card{
+    width: 800px;
+    height: 400px;
+    margin: 60px auto;
+    border: 2px solid gold;
+    padding: 20px 20px;
+    background-image: url(./frame.png), url(./Red-Flower-Pattern-Background-Vector.webp);
+    background-size: 800px 400px;
+    background-repeat: no-repeat;
+                   
+}
+ 
+.card h1{
+    color: rgb(173, 130, 12);
+    font-family: Georgia, Times, 'Times New Roman', serif;
+   font-size: 40px;
+   padding:20px;
+   margin: 2px;
+   
+
+}
+
+.card h4{
+    color: rgb(173, 130, 12);
+    font-family:inherit;
+    font-size: 25px;
+    padding: 20px;
+  
+}
